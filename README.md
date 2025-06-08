@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## Activity Instructions:
 We are each going to create a decision tree and then aggregate the results of our decision trees to vote on a final prediction. 
-1. Open the file 
+1. Open the file `random_forest_activity.ipynb`
 2. Run the code to get your own unique decision tree
 3. Run the predictions for the test data
 4. We will then use a Kahoot to aggregate and compare answers!
