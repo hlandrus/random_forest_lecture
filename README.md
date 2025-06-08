@@ -1,6 +1,13 @@
 # Random Forest Lecture
 This repo contains code for a random forest lecure. The goal of the lecture is for a group of students to work through the process of creating a random forest by each creating their own decision tree and then using voting to aggregate the results. 
 
+## Setup Instructions
+If you have matplotlib, pandas, sklearn set up in an environment already you should be good to run this. 
+Otherwise install the requirements with the command below.
+```
+pip install -r requirements.txt
+```
+
 ## Activity Instructions:
 We are each going to create a decision tree and then aggregate the results of our decision trees to vote on a final prediction. 
 1. Open the file 
