@@ -1,0 +1,2 @@
+# Random Rorest Lecture
+This repo contains code for a random forest lecure. The goal of the lecture is for a group of students to work through the process of creating a random forest by each creating their own decision tree and then using voting to aggregate the results. 
